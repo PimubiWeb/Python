@@ -8,4 +8,4 @@ def factorial(n):
 
 def combinacion(word):
     l_word = list(word)
-    for w in range(l_word):
+    #for w in range(l_word):
